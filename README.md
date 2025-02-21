@@ -3,4 +3,9 @@ Paseando se me ocurrió la pregunta : ¿ qué se puede hacer con Python en Topol
 Después de programar los concepto más básicos , fuí añadiendo más y más conceptos...
 
 
+*****************************************************
+            Aún está en pruebas
+*****************************************************
+
+
 
